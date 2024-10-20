@@ -1,4 +1,4 @@
-# React Tailwind Image Gallery
+# image-gallery-react-tailwind
 
 This project is a responsive image gallery built with React and styled using Tailwind CSS. It fetches images from the Pixabay API and displays them in a clean and interactive grid layout. This project demonstrates the integration of Tailwind CSS with React and utilizes PostCSS and Autoprefixer to ensure compatibility across different browsers.
 
